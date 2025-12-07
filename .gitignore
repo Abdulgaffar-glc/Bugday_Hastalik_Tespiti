@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.virtual_documents/
+test/
+train/
+valid/
+wheat-env/
+01_data_exploration.ipynb
